@@ -1,0 +1,5 @@
+__pycache__/
+df.csv
+recipes.csv
+embeddings.npy
+food101_dataset/
