@@ -1,7 +1,7 @@
 Проект **DishGenerator** интегрируется с веб-приложением **DineWithFriends** и позволяет генерировать новые блюда на основе предпочтений пользователя.  
 
 ---
-
+Стек: Python, Sentence-Transformer, Scikit-learn, KMeans, Faiss, FlaskAPI
 ## Как это работает
 
 ### Обучение (Train)
